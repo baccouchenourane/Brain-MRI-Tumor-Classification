@@ -194,7 +194,19 @@ This project is developed for **academic and educational purposes only**.
 - Model scores are not calibrated clinical probabilities.
 - Performance may vary on MRI images from different hospitals, scanners, and populations.
 - Further validation on independent datasets is necessary before considering any real-world medical application.
+## Results
 
+### Training Curves
+![Training Curves](screenshots/training_curves.png)
+
+### Confusion Matrix
+![Confusion Matrix](screenshots/confusion_matrix.png)
+
+### Gradio Application
+![Gradio App](screenshots/gradio_app.png)
+
+### Dataset Examples
+![Dataset Examples](screenshots/dataset_examples.png)
 ##  Author
 
 **Nourane Baccouche**
